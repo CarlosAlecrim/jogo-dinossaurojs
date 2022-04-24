@@ -1,0 +1,9 @@
+div{
+    display: flex;
+    border:1px solid aqua;
+    
+}
+.container{
+    margin: auto;
+}
+
